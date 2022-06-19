@@ -1,6 +1,7 @@
 # @author Jungjae Lee
 # Independent Project
-# Created on June 19, 2022
+# Created on June 18, 2022
+# Last Updated on June 19, 2022
 # Sources: (1) Create our own Blackjack Game using Python on AskPython
 #          (2) __init__ in Python on GeeksforGeeks
 #          (3) Unicode Character on FileFormatInfo
